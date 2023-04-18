@@ -16,7 +16,7 @@
 </filter>
 </defs>
 <text style="filter: url(#glow); fill: #0c9" x="175" y="55"> Simple Glow </text>
-<text x="175" y="55" style="fill: white"><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></text>
+<text x="175" y="55" style="fill: white">Visit W3Schools.com</text>
 </g>
 </svg>
 </a>
